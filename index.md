@@ -43,7 +43,7 @@ Some of the google powered applications that use dart are
 
 Many companies use dart for building applications, such companies are:
 
-[Wrike][] uses the angulardart framework which is developed using dart, 
+[Wrike][] uses the angulardart framework which is developed using dart, <br/>
 [Blossom][], [ufirst][], [Modanisa][], [Sonos][], [Easy Insure][]
 
 [Wrike]: https://www.wrike.com
