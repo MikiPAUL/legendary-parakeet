@@ -21,6 +21,15 @@ as described in [this announcement.][flutter-io19]
 [Google Ads]: https://ads.google.com/getstarted
 [flutter-io19]: https://developers.googleblog.com/2019/05/Flutter-io19.html
 
+Some of the other companies that are using Dart in production are
+[BMW][], [Sonos][], [Blossom][], [ufirst][], [Modanisa]
+
+[BMW]: https://www.press.bmwgroup.com/global
+[Sonos]: https://www.sonos.com/en-in/home
+[Blossom]: https://blossom.co/
+[ufirst]: https://ufirst.com/en/
+[Modanisa]: https://www.modanisa.com/en/
+
 {% comment %}
 [IDEAS FOR IMPROVEMENT: https://github.com/dart-lang/site-www/issues/679]
 {% endcomment %}
