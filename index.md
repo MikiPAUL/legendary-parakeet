@@ -21,7 +21,11 @@ For example, if you use the [Google Ads][] web or mobile app,
 you're using a Dart app that supports much of Google's revenue.
 Also, the Assistant team at Google uses Dart for features in Smart Displays, 
 as described in [this announcement.][flutter-io19]
-And [Google Fibre][], [Google Elections][], [Google Shopping] are some of the google powered applications that use dart.
+Some of the google powered applications that use dart.
+- The Google Play Console that lets app publishers market Android apps: all Dart (https://android-developers.googleblog.com/2020/06/introducin...)
+- The Google Nest Hub and Hub Max devices: both the UI and a lot of back-end code are written in Dart
+- Google Pay: Dart (and Flutter)
+- Family Link, Google One, Stadia, Cloud Search: Flutter and Dart
 
 [Google Fibre]: https://fiber.google.com
 [Google Elections]: https://elections.google
