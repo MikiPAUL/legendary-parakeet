@@ -21,7 +21,7 @@ For example, if you use the [Google Ads][] web or mobile app,
 you're using a Dart app that supports much of Google's revenue.
 Also, the Assistant team at Google uses Dart for features in Smart Displays, 
 as described in [this announcement.][flutter-io19]
-And [Google Fibre][], [Google Elections][], [Google Shopping] are some of the google powered application that use dart.
+And [Google Fibre][], [Google Elections][], [Google Shopping] are some of the google powered applications that use dart.
 
 [Google Fibre]: https://fiber.google.com
 [Google Elections]: https://elections.google
