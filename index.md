@@ -41,11 +41,13 @@ Some of the google powered applications that use dart are
 [Google Shopping]: https://shopping.google.com
 [Cloud Search]: https://workspace.google.com/intl/en_in/products/cloud-search
 
-Some of the other companies that are using Dart in production are
-[BMW][], [Sonos][], [Blossom][], [ufirst][], [Modanisa][]
+Many companies use dart for building applications, such companies are:
+[Wrike][] uses the angulardart framework which is developed using dart, 
+[Blossom][], [ufirst][], [Modanisa][], [Sonos][], [Easy Insure][]
 
-
+[Wrike]: https://www.wrike.com
 [Sonos]: https://www.sonos.com/en-in/home
 [Blossom]: https://blossom.co
 [ufirst]: https://ufirst.com/en
 [Modanisa]: https://www.modanisa.com/en
+[Easy Insure]: https://easyinsure.ca/main.aspx
