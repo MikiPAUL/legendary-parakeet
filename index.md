@@ -21,17 +21,25 @@ For example, if you use the [Google Ads][] web or mobile app,
 you're using a Dart app that supports much of Google's revenue.
 Also, the Assistant team at Google uses Dart for features in Smart Displays, 
 as described in [this announcement.][flutter-io19]
-Some of the google powered applications that use dart.
-- The Google Play Console that lets app publishers market Android apps: all Dart (https://android-developers.googleblog.com/2020/06/introducin...)
-- The Google Nest Hub and Hub Max devices: both the UI and a lot of back-end code are written in Dart
-- Google Pay: Dart (and Flutter)
-- Family Link, Google One, Stadia, Cloud Search: Flutter and Dart
 
-[Google Fibre]: https://fiber.google.com
-[Google Elections]: https://elections.google
 [Google Ads]: https://ads.google.com/getstarted
 [flutter-io19]: https://developers.googleblog.com/2019/05/Flutter-io19.html
+
+Some of the google powered applications that use dart are
+- The [Google Play Console] that lets app publishers market Android apps
+- The [Google Nest Hub] and Hub Max devices: both the UI and a lot of back-end code are written in Dart
+- Google Pay
+- [Family Link][], [Google One][], [Stadia][], [Cloud Search][]
+
+[Google Play Console]: https://android-developers.googleblog.com/2020/06/introducing-new-google-play-console-beta.html
+[Google Nest Hub]: https://store.google.com/us/product/nest_hub_2nd_gen?hl=en-US
+[Family Link]: https://families.google/familylink
+[Google One]: https://one.google.com/about
+[Google Fibre]: https://fiber.google.com
+[Google Elections]: https://elections.google
 [Google Shopping]: https://shopping.google.com
+[Stadia]: https://stadia.google.com/gg
+[Cloud Search]: https://workspace.google.com/intl/en_in/products/cloud-search
 
 Some of the other companies that are using Dart in production are
 [BMW][], [Sonos][], [Blossom][], [ufirst][], [Modanisa][]
