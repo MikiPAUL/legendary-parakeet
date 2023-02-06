@@ -44,7 +44,7 @@ Some of the google powered applications that use dart are
 Many companies use dart for building applications, such companies are:
 
 [Wrike][] uses the angulardart framework which is developed using dart, <br/>
-[Blossom][], [ufirst][], [Modanisa][], [Sonos][], [Easy Insure][]
+[Blossom][], [ufirst][], [Modanisa][], [Sonos][], [Easy Insure][] and [Workviva][] uses for their web applications.
 
 [Wrike]: https://www.wrike.com
 [Sonos]: https://www.sonos.com/en-in/home
@@ -52,3 +52,4 @@ Many companies use dart for building applications, such companies are:
 [ufirst]: https://ufirst.com/en
 [Modanisa]: https://www.modanisa.com/en
 [Easy Insure]: https://easyinsure.ca/main.aspx
+[Workviva]: https://www.workiva.com/en-in
